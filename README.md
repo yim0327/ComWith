@@ -8,7 +8,7 @@
 
 ### 진행 방법
 1. `Algorithm-Study`저장소를 개인 원격 저장소에 `fork` 한다.
-2. 생성된 원격 저장소(`remote repository`)에 `github ID`로 폴더를 생성한다.
+2. 생성된 원격 저장소(`remote repository`)에 `자신의 이름(영어) 혹은 github ID`로 폴더를 생성한다.
 3. 생성된 폴더에 자신의 소스코드를 업로드 한다.
 4. 원본 저장소(`upstream repository`)로 `Pull Request`를 한다. (수시로 Merge 예정)
 5. *절대! 다른 사람의 폴더는 건들면 안됩니다!*
