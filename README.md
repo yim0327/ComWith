@@ -6,6 +6,13 @@
 - 회의 및 질문/답변 : 학교 or 카카오톡
 - 사용 프로그래밍 언어 : 자유
 
+### 진행 방법
+1. `Algorithm-Study`저장소를 개인 원격 저장소에 `fork` 한다.
+2. 생성된 원격 저장소(`remote repository`)에 `자신의 이름(영어) 혹은 github ID`로 폴더를 생성한다.
+3. 생성된 폴더에 자신의 소스코드를 업로드 한다.
+4. 원본 저장소(`upstream repository`)로 `Pull Request`를 한다. (수시로 Merge 예정)
+5. *절대! 다른 사람의 폴더는 건들면 안됩니다!*
+
 ### 문제 풀이 지침
 1. 매일 최소 한 문제씩(권장) 문제 풀이를 진행합니다.
 2. [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/learn/challenges)에서 자유롭게 문제 풀이하시면 됩니다.
