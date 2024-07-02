@@ -10,7 +10,7 @@ class Solution {
         }
     
         if (dice[0] == dice[2] || dice[1] == dice[3]) {
-            int p = dice[1]; // 세 숫자가 같은 경우의 숫자
+            int p = dice[1]; 
             int q = (dice[0] == dice[2]) ? dice[3] : dice[0];
             return (int) Math.pow(10 * p + q, 2);
         }
