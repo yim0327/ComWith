@@ -1,0 +1,13 @@
+import math
+
+T = int(input())
+
+C_value = []
+
+for i in range(T):  
+    N, M = map(int, input().split())
+    C = math.comb(M, N)
+    C_value.append(C)
+
+for i in range(T): 
+    print(C_value[i])
